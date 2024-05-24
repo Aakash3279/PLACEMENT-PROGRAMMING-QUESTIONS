@@ -1,0 +1,15 @@
+import java.util.*;
+public class Main {
+    public static String vowelORConsonant(char ch) {
+        return switch (ch) {
+            case 'A', 'E', 'I', 'O', 'U', 'a', 'e', 'i', 'o', 'u' -> ch + " is a vowel";
+            default -> ch + " is a consonant";
+        };
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String ch = sc.next();
+        System.out.println(vowelORConsonant(ch.charAt(0)));
+    }
+}
