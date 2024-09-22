@@ -31,3 +31,5 @@
 15.Write a program to reverse a given number
 
 16.Find the LCM of two numbers
+
+17.Write a program to identify if the number is Strong number or not
