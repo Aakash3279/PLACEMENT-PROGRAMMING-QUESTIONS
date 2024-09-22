@@ -11,5 +11,13 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         String ch = sc.next();
         System.out.println(vowelORConsonant(ch.charAt(0)));
+
+        System.out.println("-".repeat(30));
+        char x = sc.next().charAt(0);
+        switch(x){
+            case 'a', 'e','i','0','u','A','E','I','O','U' -> System.out.println("Vowel");
+            default -> System.out.println("Consonant");
+        }
+
     }
 }
