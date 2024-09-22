@@ -8,5 +8,13 @@ public class Main {
         }else{
             System.out.println("ODD");
         }
+        System.out.println("_".repeat(30));
+        System.out.print("Enter the number :");
+        int x = sc.nextInt();
+        if((x&1) == 0){
+            System.out.println("Even number");
+        }else {
+            System.out.println("Odd Number");
+        }
     }
 }
