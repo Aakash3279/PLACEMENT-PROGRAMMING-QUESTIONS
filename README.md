@@ -33,3 +33,9 @@
 16.Find the LCM of two numbers
 
 17.Write a program to identify if the number is Strong number or not
+
+18.Write a program to identify if the number is Perfect number or not
+
+19.Write a program to find Power of a number
+
+20.Write a program to find the Factors of a number
