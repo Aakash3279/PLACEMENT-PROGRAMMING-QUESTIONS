@@ -29,3 +29,5 @@
 14.Write a program to find Sum of numbers in a given range
 
 15.Write a program to reverse a given number
+
+16.Find the LCM of two numbers
