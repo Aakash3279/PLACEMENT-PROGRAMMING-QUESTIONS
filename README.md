@@ -39,3 +39,19 @@
 19.Write a program to find Power of a number
 
 20.Write a program to find the Factors of a number
+
+21.Write a program to Add two fractions
+
+22.Write a program to find GCD of two numbers
+
+23.Write a program to identify if the number is Armstrong number or not
+
+24.Write a program to find Greatest of two numbers
+
+25.Write a program to find Greatest of three numbers
+
+26.Write a program to identify if the year is Leap year or not
+
+27.Write a program to identify if the number is Prime number or not
+
+28.Write a program to identify if the number is Palindrome or not
