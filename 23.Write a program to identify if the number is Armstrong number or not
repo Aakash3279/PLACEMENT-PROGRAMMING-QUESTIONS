@@ -1,0 +1,43 @@
+import java.util.*;
+public class Main
+{
+    public static int count(int x){
+        int c = 0;
+        while(x != 0){
+            c++;
+            x /= 10;
+        }
+        
+        
+        return c;
+    }
+    
+    public static int Armstrong(int x,int n){
+        
+        int sum = 0;
+        int num = x;
+        while(num != 0){
+            int last = num %10;
+            sum += Math.pow(last,n);
+            num /= 10;
+        }
+        
+        return sum;
+    }
+    
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+	    int x = sc.nextInt();
+	    int n = count(x);
+	    
+	    int val = Armstrong(x,n);
+	    
+	    if(val == x){
+	        System.out.println("Armstrong number");
+	    }else{
+	        System.out.println("Not an Armstrong number");
+	    }
+	    
+	}
+}
