@@ -55,3 +55,56 @@
 27.Write a program to identify if the number is Prime number or not
 
 28.Write a program to identify if the number is Palindrome or not
+
+29.Write a program to print prime numbers in a given range
+
+30.Write a program to print Armstrong numbers between two intervals
+
+31.Write a program to express a number as a sum of two prime numbers
+
+32.Write a program to Replace all 0’s with 1 in a given integer
+
+33.Write a program to print Pyramid pattern using stars
+
+34.Write a program to print Pyramid pattern using numbers
+
+35.Write a program to print Palindromic pyramid pattern printing
+
+36.Write a program to calculate Maximum number of handshakes
+
+39.Write a program to find the Quadrants in which coordinates lie
+
+40.Write a program to Convert digit/number to words
+
+41.Write a program to find Number of days in a given month of a given year
+
+42.Write a program to find Permutations in which n people can occupy r seats in a classroom
+
+43.Write a program for Binary to decimal conversion
+
+44.Write a program for Decimal to binary conversion
+
+45.Write a program for Binary to octal conversion
+
+46.Write a program for Octal to binary conversion
+
+47.Write a program for Decimal to octal conversion
+
+48.Write a program for Octal to decimal conversion
+
+49.Write a program to find number of times digit 3 occurs in each and every number from 0 to n
+
+50.Write a program to find number of integers which has exactly 9 divisors
+
+51.Write a program to find roots of a quadratic equation
+
+52.Write a program to print Solid and hollow rectangle star pattern
+
+53.Write a program to print Diamond pattern printing using stars
+
+54.Write a program to print Diamond pattern printing using numbers
+
+55.Write a program to print Floyd’s triangle
+
+56.Write a program to print Pascal triangle
+
